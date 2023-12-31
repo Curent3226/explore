@@ -1,3 +1,5 @@
+[int_exp_regs_acknowledge_e.pdf](https://github.com/github/explore/files/13801765/int_exp_regs_acknowledge_e.pdf)
+[ng-cash-backed-credit-card-application-form-individual-vs-fillable (1).pdf](https://github.com/github/explore/files/13801761/ng-cash-backed-credit-card-application-form-individual-vs-fillable.1.pdf)
 ---
 items:
  - ohmyzsh/ohmyzsh
